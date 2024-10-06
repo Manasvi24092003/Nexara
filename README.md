@@ -1,7 +1,6 @@
 
 <p align="center"><img src="./logo.png" width=400 height=400>
-<h1 align="center">Solar System</h1></p>
-<h5 align="center">🌎​ Interactive Solar System 3D replica 🪐</h5>
+<h1 align="center">NEXAR - Explore the Cosmos</h1></p>
 
 ### 
 
